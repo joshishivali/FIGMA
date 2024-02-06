@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+:root{
+      --btn-color: #4caf4f;
+      --white-color:#ffffff;
+      --header-text-color: #4d4d4d;
+      --where-color: #717171;
+      --header-bg-color: #f5f7fa;
+}
+
+body{
+    font-family: 'Inter';
+    overflow: hidden;
+}
+
